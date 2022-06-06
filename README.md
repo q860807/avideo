@@ -1,2 +1,2 @@
-# avideo
+# video
 nice video
